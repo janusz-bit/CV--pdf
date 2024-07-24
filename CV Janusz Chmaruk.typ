@@ -18,7 +18,7 @@
 
     = Języki
 
-    - Angielski: B2 \ TOEIC test: #link("https://www.etsglobal.org/fr/en/digital-score-report/09E18694EF20509DD45581EAF697E1DC37C03ADB6F89A4BC046EC076C638BF38d1A2eEh0MVdXbTh3OStkN0JoZFRYYklaM0NBTSs3QVdlT3RRRk9EMlBFNFVMd2JN")[#text(fill: red)[link]]
+    - Angielski: B2 \ TOEIC test: #link("https://www.etsglobal.org/fr/en/digital-score-report/09E18694EF20509DD45581EAF697E1DC37C03ADB6F89A4BC046EC076C638BF38d1A2eEh0MVdXbTh3OStkN0JoZFRYYklaM0NBTSs3QVdlT3RRRk9EMlBFNFVMd2JN")[#text(fill: green)[link]]
     
 
   ]
@@ -38,7 +38,7 @@
 
   #entry([Koło SumoMasters],[Aktywny członek koła naukowego na Politechnice Białostockiej (zawody robotów w Kolumbi, Brazyli, Litwie, Rumuni):
   - #link("https://wm.pb.edu.pl/studenci/kola-naukowe/projekty-studenckie/sumomasters/")[strona koła naukowego: wm.pb.edu.pl/studenci/kola-naukowe/projekty-studenckie/sumomasters/]
-  - wykonane przeze mnie roboty: #link("https://janusz-bit.github.io/CV/#sec-1")[janusz-bit.github.io/CV/\#sec-1]],[2022-2024])
+  - wykonane przeze mnie roboty: #link("https://janusz-bit.github.io/CV/#sec-1")[#text(fill: green)[janusz-bit.github.io/CV/\#sec-1]]],[2022-2024])
 
 = Umiejętności / Uprawnienia
 
