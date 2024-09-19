@@ -4,7 +4,7 @@
 #show: resume.with(
   name: [Janusz Chmaruk],
   accent-color: rgb("f3bc54"),
-  margin: 2.6cm,
+  margin: 2.2cm,
   aside: [
 
     #align(center)[#image("image/2024-06-23-17-52-37.png", width: 80%) ]
@@ -20,6 +20,8 @@
 
     - Angielski: B2 \ TOEIC test: #link("https://www.etsglobal.org/fr/en/digital-score-report/09E18694EF20509DD45581EAF697E1DC37C03ADB6F89A4BC046EC076C638BF38d1A2eEh0MVdXbTh3OStkN0JoZFRYYklaM0NBTSs3QVdlT3RRRk9EMlBFNFVMd2JN")[#text(fill: green)[link]]
     
+    
+
 
   ]
 )
@@ -61,6 +63,11 @@
 
   
 ],[Ważne do 21.12.2033])
+
+
+#entry([Aktualne orzeczenie Sanepid],[Aktualne orzeczenie lekarskie do celów sanitarno-epidemiologicznych],[bezterminowe])
+
+
 
 #entry([Umiejętność obsługi frezarki],[KIMLA CNC 3-osiowa (starszy model)],[2022-2024, Koło SumoMasters])
 
